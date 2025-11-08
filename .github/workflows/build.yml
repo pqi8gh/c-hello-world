@@ -7,6 +7,6 @@ jobs:
 
     steps:
         - name: build
-            id: build
-            run: |
-                build.sh
+          id: build
+          run: |
+              build.sh
